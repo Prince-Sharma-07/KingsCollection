@@ -1,3 +1,13 @@
+For completely new users install git first and create an account on github
+After installing github run the following commands first:
+
+git config --global user.name "My Name"
+git config --global user.email "myemail@example.com"
+
+Now you are good to go :)
+--------------------------------------------------------------------------------------------------------------
+
+
 Steps to start contributing: 
 
 1. Open your IDE. In the teminal paste the following command: git clone https://github.com/Prince-Sharma-07/KingsCollection.git
