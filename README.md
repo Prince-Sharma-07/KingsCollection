@@ -1,4 +1,4 @@
-For completely new users install git first and create an account on github
+For complete new users install git first and create an account on github.
 After installing github run the following commands first:
 
 git config --global user.name "My Name"
