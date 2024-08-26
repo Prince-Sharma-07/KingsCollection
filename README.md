@@ -2,6 +2,7 @@ For completely new users install git first and create an account on github
 After installing github run the following commands first:
 
 git config --global user.name "My Name"
+
 git config --global user.email "myemail@example.com"
 
 Now you are good to go :)
@@ -20,5 +21,6 @@ Steps to start contributing:
 8. git add .
 9. git commit -m "your msg in double quotes"
 10. git push -u origin branch_name (replace this with the branch name you have created earlier may be with your name)
-   
+11. If you want to get the latest changes maded on the the project by someone. you can simply run "git pull branch_name" command to fetch the recent changes maded on the project.
+
  Thank you:)
